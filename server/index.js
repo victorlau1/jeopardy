@@ -7,3 +7,6 @@ app.listen(3000, function() {
   console.log('Server started and listening on port 3000');
 });
 
+app.get('/data', function(req, res) {
+  console.log(JSON.parse(req.query[0])); 
+})
