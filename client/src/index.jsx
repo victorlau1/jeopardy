@@ -4,6 +4,7 @@ import { Table, Modal, Popover, Tooltip, OverlayTrigger, Button } from 'react-bo
 import Categories from './components/Categories.jsx'; 
 import Row from './components/Row.jsx'; 
 import data from '../../database/data.json'; 
+import axios from 'axios'; 
 
 class App extends React.Component {
   constructor(props) {
@@ -15,6 +16,11 @@ class App extends React.Component {
       categories: ['TELEVISION', 'MUSIC', 'SPORTS', 'MOVIES', 'FOOD', 'TECHNOLOGY', 'NEWS AND POLITICS']
     }
   }
+  componentDidMount() {
+    axios.get('/data', {
+      params: JSON.stringify(data)
+    })
+  }
   render () {
     return (
       <div>
@@ -22,7 +28,6 @@ class App extends React.Component {
           <Categories categories={this.state.categories}></Categories>
           <Row categories={this.state.categories} prices={this.state.prices} questions={this.state.questions}></Row>
         </Table>
-        {data[0].category}
       </div>
     )
   }
