@@ -1,0 +1,329 @@
+[{
+  "category":"TELEVISION",
+  "price": "$100",
+  "image":"Missing",
+  "question":"What was the butler's name in Fresh Prince of Bel-Air" ,
+  "answer":"Geoffrey"
+},
+{
+  "category":"TELEVISION",
+  "price":"$200",
+  "image": "Missing",
+  "question": "What are the names of the X-Men?",
+  "answer": "Cyclops: Scott Summers, Wolverine: Logan, Storm: Oro Munroe, Jubilee: Jubilation Lee, Gambit: Remy LeBeau, Beast: Dr. Hank McCoy, Professor X: Professor Charles Xavier, and Nightcrawler: Kurt Loder"
+},
+{
+  "category":"TELEVISION",
+  "price":"$400",
+  "image":"Missing",
+  "question":"Missing",
+  "answer": "Missing"
+},
+{
+  "category":"TELEVISION",
+  "price":"$600",
+  "image":"Missing",
+  "question":"Who shot Mr.Burns",
+  "answer": "Maggie Simpson"
+},
+{
+  "category":"TELEVISION",
+  "price":"$800",
+  "image":"Missing",
+  "question":"Missing",
+  "answer": "Missing"
+},
+{
+  "category":"TELEVISION",
+  "price":"$1000",
+  "image": "Missing",
+  "question":"Missing",
+  "answer": "Missing"
+},
+{
+  "category":"MUSIC",
+  "price":"$100",
+  "image":"Missing",
+  "question": "Now that I can see that we're falling Apart / From that way that is used to be Yeah",
+  "answer": "Backstreet Boys"
+},
+{
+  "category":"MUSIC",
+  "price":"$200",
+  "image":"Missing",
+  "question":"Who was Justin Timberlake dating in the 1990s",
+  "answer": "Britney Spears"
+},
+{
+  "category":"MUSIC",
+  "price":"$400",
+  "image":"Missing",
+  "question":"Missing",
+  "answer": "Missing"
+},
+{
+  "category":"MUSIC",
+  "price":"$600",
+  "image":"Missing",
+  "question":"What song won the MTV Music Awards in 1991, and what Artist?",
+  "answer": "Smells Like Teen Spirit"
+},
+{
+  "category":"MUSIC",
+  "price":"$800",
+  "image":"Missing",
+  "question":"Missing",
+  "answer": "Missing"
+},
+{
+  "category":"MUSIC",
+  "price":"$1000",
+  "image":"Missing",
+  "question":"Who did Billboard declare as 'Artist of the Decade'",
+  "answer": "Mariah Carey"
+},
+{
+  "category":"SPORTS",
+  "price":"$100",
+  "image":"Missing",
+  "question": "Who was the greatest wide receiver to ever play the game in the 1990s",
+  "answer": "Jerry Rice, the GOAT"
+},
+{
+  "category":"SPORTS",
+  "price":"$200",
+  "image":"Missing",
+  "question":"Name 4 Players of the Fabled 1996 Bulls Roster that won 72 games",
+  "answer": "Randy Brown -  Jud Buechler  - Jason Caffey  - James Edwards - Jack Haley - Ron Harper - Michael Jordan - Steve kerr - Toni Kukoc - Luc Longley - Scottie Pippen - Dennis Rodman - John Salley - Dickey simpkins - Bill Wennington"
+},
+{
+  "category":"SPORTS",
+  "price": "$400",
+  "image":"Missing",
+  "question": "Where was the Mike Tyson-Buster Douglas showdown held?",
+  "answer": "Japan"
+},
+{
+  "category":"SPORTS",
+  "price":"$600",
+  "image":"Missing",
+  "question":"Who booted the infamous 'wide right' field goal attempt costing the Buffalo Bills the Super Bowl?",
+  "answer": "Scott Norwood"
+},
+{
+  "category":"SPORTS",
+  "price":"$800",
+  "image":"Missing",
+  "question":"Which team drafted Vince Carter in the 1998 NBA Entry Draft?",
+  "answer": "Golden State Warriors"
+}, 
+{
+  "category":"SPORTS",
+  "price":"$1000",
+  "image":"Missing",
+  "question": "Who won Olympic gold in ice hockey in 1998?",
+  "answer":"Czech Republic"
+},
+{
+  "category":"TECHNOLOGY",
+  "price":"$100",
+  "image":"Missing",
+  "question":"What was the deprecated technology that played a lot of animations in the 1990s?",
+  "answer": "Adobe Flash"
+},
+{
+  "category":"TECHNOLOGY",
+  "price":"$200",
+  "image":"Missing",
+  "question":"What was the name of the service/site that hosted a majority of webpages in 1990s?",
+  "answer": "Geocities"
+}, 
+{
+  "category":"TECHNOLOGY",
+  "price": "$400",
+  "image":"Missing",
+  "question": "What programming language was inspired by Java?",
+  "answer": "C#"
+},
+{
+  "category":"TECHNOLOGY",
+  "price": "$600",
+  "image":"Missing",
+  "question":"First light up shoes brand",
+  "answer": "LA Lights"
+},
+{
+  "category":"TECHNOLOGY",
+  "price": "$800",
+  "image": "Missing",
+  "question": "What popular language was developed in 1991? (HINT: It's not the one that most people consider single-threaded)",
+  "answer": "Visual Basic or Python"
+},
+{
+  "category":"TECHNOLOGY",
+  "price": "$1000",
+  "image":"Missing",
+  "question":"What were Jennifer Aniston and Matthew Perry (from friends) advertising in their infamous video?",
+  "answer": "Windows 95 - for Bill Gates"
+},
+{
+  "category":"Movies",
+  "price": "$100",
+  "image":"Missing",
+  "question": "Girl from Jumanji",
+  "answer": "Kirsten Dunst"
+},
+{
+  "category":"Movies",
+  "price": "$200",
+  "image":"Missing",
+  "question": "Which is the highest grossing movie of the 90s?",
+  "answer": "Titanic"
+},
+{
+  "category":"Movies",
+  "price":"$400",
+  "image":"Missing",
+  "question":"What the fifth element in the fifth element?",
+  "answer": "Love"
+}, 
+{
+  "category":"Movies",
+  "price":"$600",
+  "image":"Missing",
+  "question":"What was the previous scripts trigger speed in Keanu Reeves in which the bomb would explode?",
+  "answer": "20mph"
+},
+{
+  "category":"Movies",
+  "price":"$800",
+  "image":"Missing",
+  "question":"What were the two job positions that Will Smith's love interest had in Independence Day 1999",
+  "answer": "Stripper and Doctor"
+},
+{
+  "category":"NEWS AND POLITICS",
+  "price":"$100",
+  "image":"Missing",
+  "question":"what agreeent was made between the United States, Mexico, and Canada in 1994?",
+  "answer": "North American Free Trade act Agreement"
+},
+{
+  "category":"NEWS AND POLITICS",
+  "price":"$200",
+  "image":"Missing",
+  "question":"Who was elected president of South Africa in 1994",
+  "answer": "Nelson Mandela"
+},
+{
+  "category":"NEWS AND POLITICS",
+  "price":"$400",
+  "image":"Missing",
+  "question":"Who did Bill Clinton beat in the 1992 presidential elections? (Full Name)",
+  "answer": "George H. W. Bush"
+},
+{
+  "category":"NEWS AND POLITICS",
+  "price":"$600",
+  "image":"Missing",
+  "question":"After 150 years of British control, what colony was given back to their own country in 1997?",
+  "answer": "Hong Kong"
+},
+{
+  "category":"NEWS AND POLITICS",
+  "price":"$800",
+  "image":"Missing",
+  "question":"What was the name of the founding father of modern Singapore that stepped down in 1994?",
+  "answer": "Lee Kuan Yew"
+},
+{
+  "category":"NEWS AND POLITICS",
+  "price":"$1000",
+  "image":"Missing",
+  "question":"In 1998, which two countries tested nuclear weapons?",
+  "answer": "India and Pakistan"
+},
+{
+  "category":"FOOD",
+  "price":"$100",
+  "image":"Missing",
+  "question":"What was the popular food snack that featured crackers, cheese, deli meat, and questionable nutritional value?",
+  "answer": "Lunchables"
+},
+{
+  "category":"FOOD",
+  "price":"$200",
+  "image":"Missing",
+  "question":"What was the name of the candy that if mixed with soda was rumored to explode in your stomach?",
+  "answer": "Poprocks"
+},
+{
+  "category":"FOOD",
+  "price":"$400",
+  "image":"Missing",
+  "question":"What was the popular breakfast food that had a famous two word jingle?",
+  "answer": "Hot Pockets"
+},
+{
+  "category":"FOOD",
+  "price":"$600",
+  "image":"Missing",
+  "question":"What was the name of the candy that if mixed with soda was rumored to explode in your stomach?",
+  "answer": "Poprocks"
+},
+{
+  "category":"FOOD",
+  "price":"$800",
+  "image":"Missing",
+  "question":"This dessert was based off of the the popular kid's network Nickelodeon",
+  "answer": "Nickelodeon Green Slime Popsicle"
+},
+{
+  "category":"FOOD",
+  "price":"$1000",
+  "image":"Missing",
+  "question":"what was the name of the drink that PepsiCo developed in 1992, that later died to a 'suicidal kamikaze' plan of Coca-Cola?",
+  "answer": "Crystal Pepsi"
+},
+{
+  "category":"Random",
+  "price":"$100",
+  "image":"Missing",
+  "question":"What was the world-wide phenomenon in 1997 that launched an anthology of books and movies?",
+  "answer":"Harry Potter"
+},
+{
+  "category":"Random",
+  "price":"$200",
+  "image":"Missing",
+  "question":"In Dragon Ball Z, what was the highest level Goku reached?",
+  "answer": "4"
+},
+{
+  "category":"Random",
+  "price":"$400",
+  "image":"Missing",
+  "question":"What was the previous scripts trigger speed in Keanu Reeves in which the bomb would explode?",
+  "answer": "20mph"
+},
+{
+  "category":"Random",
+  "price":"$600",
+  "image":"Missing",
+  "question":"What was the previous scripts trigger speed in Keanu Reeves in which the bomb would explode?",
+  "answer": "20mph"
+},
+{
+  "category":"Random",
+  "price":"$800",
+  "image":"Missing",
+  "question":"In the Popular television show, Yu-Gi-Oh, which card does Joey get after he beats Rex in a duel",
+  "answer": "Red Eyes Black Dragon"
+},
+{
+  "category":"Random",
+  "price":"$1000",
+  "image":"Missing",
+  "question":"Missing",
+  "answer": ""
+}]
