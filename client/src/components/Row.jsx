@@ -30,6 +30,11 @@ const Row = (props) => {
           return <Cell key={index} price={props.prices[4]} category={el} questions={props.questions}></Cell>
         })}
       </tr>
+      <tr className='cells'>
+        {props.categories.map((el, index) => {
+          return <Cell key={index} price={props.prices[5]} category={el} questions={props.questions}></Cell>
+        })}
+      </tr>
     </tbody>
   )
 }
