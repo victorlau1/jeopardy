@@ -8,5 +8,6 @@ create table questions(
   image varchar(500),
   question varchar(500),
   answer varchar(500),
-  primary key (id)
+  primary key (id),
+  unique key (category, price)
 );
