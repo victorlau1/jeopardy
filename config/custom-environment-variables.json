@@ -1,0 +1,9 @@
+{
+  "connection": {
+    "database": "RDS_DB_NAME",
+    "user": "RDS_USERNAME",
+    "password": "RDS_PASSWORD",
+    "host": "RDS_HOSTNAME",
+    "port": "RDS_PORT"
+  }
+}

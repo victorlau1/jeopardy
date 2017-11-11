@@ -1,6 +1,0 @@
-{
-    "host"     : "RDS_HOSTNAME" ,
-    "user"     : "RDS_USERNAME",
-    "password" : "RDS_PASSWORD",
-    "database" : "RDS_DATABASE"
-}
