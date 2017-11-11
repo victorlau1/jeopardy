@@ -11,7 +11,7 @@ class App extends React.Component {
     super(props);
     this.state = {
       showModal: false, 
-      prices: ['$200', '$400', '$600', '$800', '$1000'], 
+      prices: ['$100', '$200', '$400', '$600', '$800', '$1000'], 
       questions: data,
       categories: ['TELEVISION', 'MUSIC', 'SPORTS', 'MOVIES', 'FOOD', 'TECHNOLOGY', 'NEWS AND POLITICS']
     }
